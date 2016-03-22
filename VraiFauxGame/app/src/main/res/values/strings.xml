@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VraiFauxAndroid</string>
+    <string name="play">Jouer</string>
+    <string name="application_name1">Vrai</string>
+    <string name="application_name2">ou</string>
+    <string name="application_name3">Faux</string>
+    <string name="multijoueur">Multijoueur</string>
+    <string name="credits">Crédits</string>
+    <string name="vrai">Vrai</string>
+    <string name="faux">Faux</string>
+    <string name="next_question">Question suivante</string>
+    <string name="score">Score</string>
+    <string name="author_application">Développée par :</string>
+    <string name="resultat_final">Voici ton résultat final :</string>
+    <string name="no_life">Vous n\'avez plus de vies...</string>
+</resources>
